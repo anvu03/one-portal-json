@@ -1,7 +1,5 @@
 {
-  "login": [
-    {
-      "title": "hello"
-    }
-  ],
+  "login": {
+    "token" : "3fdjsfkewiofew.f32fewrewr.32rewrewy89fhhsf"
+  }
 }
